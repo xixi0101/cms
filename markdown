@@ -1,41 +1,16 @@
-1,MarkDown是什么？
+# Github问题集3
+1. Markdown是一种轻量级的标记语言。它使我们专心于码字，用“标记”语法，来代替常见的排版方法，可以使普通文本内容具有一定的格式。
 
-Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。
+2. 兼容HTML 在线观看 平台支持 排版样式简单
 
+3. IT人士：写日志、技术文稿、记录代码片段、撰写文档
+ 科研人员/学生：撰写科技论文、记笔记
+ 求职者：制作求职简历
 
-2,kMarkDown的特点？
+4. Mac OS X:Mou
+ Windows:MarkdownPad、MarkPad、Hbuilder
+ Linux:ReText
+ Web:简书、github、有道云笔记
 
-轻量级标记语言
-
-3,MarkDown的用途？
-
-依托管理平台进行历史版本追踪
-
-4,MarkDown的编辑工具有哪些？
-
-OSX
-Atom
-Byword
-Mou
-Typora
-MacDown
-RStudio
-Linux
-Atom
-ReText
-UberWriter
-RStudio
-Windows
-Atom
-MarkdownPad
-Miu
-Typora
-RStudio
-iOS
-Byword
-浏览器插件
-MaDo (Chrome)
-Marxico（Chrome）
-高级应用
-Sublime Text 2 + MarkdownEditing
-
+5. 区块元素：段落、换行、标题、引用、列表（有序、无序）、代码区段、分割线
+ 区段元素：链接、强调（斜体、粗体、删除线、空格）、行内标记、插入图片
